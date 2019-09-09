@@ -33,7 +33,7 @@ const AppNavBar = props => {
     <div>
       <Navbar color="dark" dark expand="sm">
         <NavbarBrand onClick={goHome} className="logo">
-          reactstrap
+          Hk coffee
         </NavbarBrand>
         <NavbarToggler onClick={toggle} />
         <Collapse isOpen={isOpen} navbar>
