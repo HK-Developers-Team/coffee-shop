@@ -1,4 +1,4 @@
-This project was created by [Shynn Huy](https://github.com/shynnhuy/).
+This project was created by [Shynn Huy](https://github.com/shynnhuy/) and [Ky Nguyen](https://github.com/Kynguyen-IT/).
 
 ## Available API
 
