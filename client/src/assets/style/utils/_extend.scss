@@ -1,0 +1,29 @@
+.ellipsis {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.image {
+  max-width: 100%;
+  height: auto;
+}
+
+
+.link {
+  color: $white;
+  text-decoration: none;
+
+  &:hover {
+    color: $gray;
+    text-decoration: none;
+  }
+}
+
+.middle-element {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+}

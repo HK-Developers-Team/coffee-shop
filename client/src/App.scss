@@ -1,0 +1,13 @@
+
+$primaryColor: #bada55;
+
+h1 {
+  color: $primaryColor;
+}
+
+a.logo {
+  color: white !important;
+  &:hover {
+    cursor: pointer;
+  }
+}
